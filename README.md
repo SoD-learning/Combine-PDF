@@ -32,7 +32,7 @@ If you do not have Python installed on your computer, follow these steps:
 2. Navigate to the folder where you extracted the application files.
 3. Run the following command to install the required Python library:
 
-```cmd
+```bash
 pip install PyPDF2
 ```
 
